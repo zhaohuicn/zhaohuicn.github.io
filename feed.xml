@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>赵辉区块链博客</title>
-    <description>赵辉，曾在华为科技,外企，创业公司工作10年以上，全球区块链高级架构师，手机系统开发，智能电视开发，智能硬件机器人开发专家。</description>
+    <description>赵辉，北京航空航天大学硕士毕业，曾在华为科技公司,外企公司，创业公司工作，开发经验10年以上，管理经验5年以上。全球区块链高级架构师，手机系统开发，智能电视开发，智能硬件机器人开发专家。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Mar 2018 23:26:26 +0800</pubDate>
-    <lastBuildDate>Wed, 14 Mar 2018 23:26:26 +0800</lastBuildDate>
+    <pubDate>Thu, 15 Mar 2018 19:31:18 +0800</pubDate>
+    <lastBuildDate>Thu, 15 Mar 2018 19:31:18 +0800</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
